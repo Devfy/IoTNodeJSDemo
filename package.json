@@ -1,0 +1,6 @@
+{
+  "name": "demo_dd_iot",
+  "dependencies": {
+    "mqtt": "^1.4.0"
+  }
+}
